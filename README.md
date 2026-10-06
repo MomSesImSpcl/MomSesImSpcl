@@ -6,7 +6,7 @@
 
 ## 🎮 Games
 
-| Game | | |
+| Game | About | Details |
 |---|---|---|
 | **[Watermelon Game](https://store.steampowered.com/app/2658820/Watermelon_Game/)** | Physics puzzle with multiplayer, built solo. On Steam and the Microsoft Store, rated *Very Positive* (91%, 1,000+ reviews) | [Design page](https://markherdt.dev/games/watermelon-game.html) |
 | **Rogue Deck** | 2–4 player card game: UNO-simple rules, deck building and roguelike upgrades. In development | [Design page](https://markherdt.dev/games/rogue-deck.html) |
