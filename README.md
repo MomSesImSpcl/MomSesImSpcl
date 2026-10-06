@@ -9,7 +9,7 @@
 | Game | About | Details |
 |---|---|---|
 | **[Watermelon Game](https://store.steampowered.com/app/2658820/Watermelon_Game/)** | Physics multiplayer puzzle game, built solo. Released on Steam Microsoft Store and Itch, rated *Very Positive* (91%, 1,000+ reviews) | [Design page](https://markherdt.dev/games/watermelon-game.html) |
-| **[Rogue Deck] (https://momsesimspcl.itch.io/rogue-deck/download/fBLCvmYwULnReEncoBvvq3vEXXSxOpyujAYdBOfm)** | Multiplayer card game: UNO and YuGiOh inspired, with deck building and roguelike elements. In development | [Design page](https://markherdt.dev/games/rogue-deck.html) |
+| **[Rogue Deck](https://momsesimspcl.itch.io/rogue-deck/download/fBLCvmYwULnReEncoBvvq3vEXXSxOpyujAYdBOfm)** | Multiplayer card game: UNO and YuGiOh inspired, with deck building and roguelike elements. In development | [Design page](https://markherdt.dev/games/rogue-deck.html) |
 | **[Queue Connect](https://momsesimspcl.itch.io/queue-connect)** | Global Game Jam 2020 entry, polished into a mobile arcade game for the Google Play Store | [Design page](https://markherdt.dev/games/queue-connect.html) |
 
 ## 🛠️ Unity tools
