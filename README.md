@@ -19,6 +19,6 @@ Game designer and programmer from Germany. I work with Unity and C#.
 
 ## About me
 
-- About 7 years of Unity and C# experience, including 2 years as a professional .NET developer
+- 7 years of Unity and C# experience, including 2 years as a professional .NET developer
 - Studied game programming and design at the [School of Games](https://schoolofgames.com/en/) in Cologne, Germany
 - Open to Gameplay, Systems, Technical Designer and also programming roles
